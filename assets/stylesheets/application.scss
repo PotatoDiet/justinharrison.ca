@@ -1,0 +1,98 @@
+@import "bourbon/bourbon";
+@import "grid-settings";
+@import "neat/neat";
+
+@import "master";
+@import "header";
+
+div.container {
+  @include outer-container;
+}
+
+body {
+  color: #484C55;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+.pull-right {
+  float: right;
+}
+
+.content {
+  padding: 10px;
+  text-align: center;
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  h3 {
+    border-bottom: 1px solid $tertiary-color;
+    padding-bottom: 15px;
+  }
+
+  .description {
+    @include span-columns(8);
+  }
+
+  .project {
+    @include media($desktop) {
+      @include span-columns(4);
+      @include omega(3n);
+    }
+    @include media($tablet) {
+      @include span-columns(6);
+      @include omega(2n);
+    }
+    @include media($mobile) {
+      @include span-columns(12);
+      @include omega(1n);
+    }
+
+    img {
+      height: 175px;
+      width: 100%;
+    }
+  }
+
+  .job {
+    @include media($desktop) {
+      @include span-columns(6);
+      @include omega(2n);
+    }
+    @include media($mobile) {
+      @include span-columns(12);
+      @include omega(1n);
+    }
+  }
+
+  .projects, .jobs {
+    color: rgb(119, 119, 119);
+  }
+
+  .right-bar {
+    @include span-columns(4);
+  }
+
+  .profiles {
+    // Keeps height, even with floating li's.
+    overflow: auto;
+  }
+
+  .profiles li {
+    width: 50%;
+    float: left;
+    text-align: left;
+  }
+
+  .right-bar h3:not(:first-child) {
+    margin-top: 40px;
+  }
+
+  .right-bar a {
+    color: #08C;
+  }
+}
+
