@@ -9,4 +9,5 @@ gem "neat"
 gem "filewatcher"
 
 gem "capistrano", "~> 3.4.0"
+gem "capistrano-cloudflare", "~> 1.0.0"
 
