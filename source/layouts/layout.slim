@@ -1,0 +1,24 @@
+doctype html
+html
+  head
+    title Justin Harrison
+    link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"
+    link href="/stylesheets/application.css" rel="stylesheet"
+    link rel="icon" type="image/x-icon" href="favicon.ico"
+  body
+    header
+      .container
+        nav
+          ul
+            li: a href="/" Justin Harrison
+          ul class="pull-right"
+            li class=("active" if current_page.path == "index.html")
+              a href="/" About Me
+            li class=("active" if current_page.path == "portfolio.html")
+              a href="/portfolio.html" Portfolio
+            li class=("active" if current_page.path.start_with?('blog'))
+              a href="/blog/" Blog
+            li: a href="/resume.pdf" Resume
+    .content.container
+      = yield
+

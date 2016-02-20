@@ -1,13 +1,12 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-# Assets
-gem "slim"
-gem "sass"
-gem "bourbon"
-gem "neat"
+# Middleman Gems
+gem 'middleman', '~> 4.0'
+gem 'middleman-blog'
 
-gem "filewatcher"
+gem 'slim'
 
-gem "capistrano", "~> 3.4.0"
-gem "capistrano-cloudflare", "~> 1.0.0"
+gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 
+# For feed.xml.builder
+gem 'builder', '~> 3.0'
