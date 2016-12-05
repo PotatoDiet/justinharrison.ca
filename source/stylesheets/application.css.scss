@@ -5,6 +5,15 @@
 @import "master";
 @import "header";
 
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans'),
+       url('/fonts/open-sans-v13-latin-regular.woff2') format('woff2');
+}
+
+
 div.container {
   @include outer-container;
 }
