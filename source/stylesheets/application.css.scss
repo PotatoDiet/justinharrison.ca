@@ -34,12 +34,16 @@ body {
 
   a {
     text-decoration: none;
-    color: inherit;
+    color: #08C;
   }
 
   h3 {
     border-bottom: 1px solid $tertiary-color;
     padding-bottom: 15px;
+
+    a {
+      color: inherit;
+    }
   }
 
   .description {
@@ -99,9 +103,4 @@ body {
   .right-bar h3:not(:first-child) {
     margin-top: 40px;
   }
-
-  .right-bar a {
-    color: #08C;
-  }
 }
-
