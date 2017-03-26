@@ -29,6 +29,7 @@ body {
 }
 
 .content {
+  flex: 1 1 auto;
   padding: 10px;
   text-align: center;
 
@@ -103,4 +104,17 @@ body {
   .right-bar h3:not(:first-child) {
     margin-top: 40px;
   }
+}
+
+[data-container] {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+footer {
+  padding: 10px;
+  flex: 0 0 auto;
+  text-align: right;
+  border-top: 1px solid $tertiary-color;
 }
