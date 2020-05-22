@@ -1,0 +1,22 @@
+html {
+  font-family: 'Roboto';
+}
+
+body {
+  max-width: 800px;
+  margin: auto; /* center alignment */
+  color: #484C55; /* sorta grey */
+}
+
+.section h2 {
+  border-bottom: 1px solid grey;
+}
+
+.section p {
+  padding: 0 15px;
+}
+
+a {
+  color: #0D79FF; /* light blue */
+  text-decoration: none;
+}

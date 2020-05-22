@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/matthin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://justinharrison.ca
+  * I am matthin (https://keybase.io/matthin) on keybase.
+  * I have a public key with fingerprint 87BD 81DA D81D 30F9 B892  4397 E423 B931 B1F2 F908
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0116e91dbcd330ee8818cd01a8d398f45d026c0182168c9d2bbbe9bc5f7ddbd12bbf0a",
+      "fingerprint": "87bd81dad81d30f9b8924397e423b931b1f2f908",
+      "host": "keybase.io",
+      "key_id": "e423b931b1f2f908",
+      "kid": "0116e91dbcd330ee8818cd01a8d398f45d026c0182168c9d2bbbe9bc5f7ddbd12bbf0a",
+      "uid": "b591e8f6ff7d8e30cb3fb9c782351719",
+      "username": "matthin"
+    },
+    "service": {
+      "hostname": "justinharrison.ca",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1587171698,
+  "expire_in": 157680000,
+  "prev": "bf0be8bd1821163d81ca540c0814714316ebe6f8285f736406541650364915c8",
+  "seqno": 44,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUk1rVDEUfdUR2mJBRbqbhRF0M5bk5X0kQ0GLS1f+ADu+JDczse1743uZjmWo
+KIgfK8VNRezSnQvd6UJEEETqSkREcCF0o4iCoHQWosnQ7lyaRT5uzj059+Temtod
+jE9vHn5CHv0Yjo9tfBbB/N3TDwZIFGoFNQdoAUYLLCqobGvBKNREmJAEOFFCKkox
+AGOESYVJxhTlTEexwmEiMWEhSZjkKhRCABcy1qlSQhF31jhDDaRN3oayW5rcOlqW
+CsWIyvxEseaC8TCiPIUopIJTIogONcfMJXaKymc4cSKrYMYULuYOrZG8f+D/s+7e
+iE7EnADTiXbXDCiWgmrBZcpCGpOUcA+soMyzJXDopczajsnRagO54LKR4H31hWwD
+zvUqa/JOVpamKvIZ6R/qloUtZLHorjvWdqumT7crXY/vg2htM7WEyZXz0mUsQ1mZ
+IkdN4pDSGk9NYpY6QQlnDQQXuqaElvGIOE0YdsO/A8u+Io3PCGCuVGcBSaj7CZnF
+EZaYkSglEXX+CUg0C5nzhCYRTuKIJDF2W05i6a2u4HxeoGYUOaFZ25FWpp1ntlcC
+Wp283qsF0+NBffpQ7drTyx/e1/Hw8e2Tazv9t2eXb75gcmLfTuT7m+DP3IlNdGd9
+Vl35vffZu7WPU0eOvR1snD16aWv4ZeLG8978WPDiOLn/7ebVua+iv35v/6kDjYef
+ftqDW/WXF2df/+q/qv0F
+=f6Zy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/matthin
+
+==================================================================
