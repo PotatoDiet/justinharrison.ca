@@ -5,6 +5,7 @@ html {
 body {
   max-width: 800px;
   margin: auto; /* center alignment */
+  padding: 0 15px;
   color: #484C55; /* sorta grey */
 }
 
