@@ -9,15 +9,23 @@ body {
   color: #484C55; /* sorta grey */
 }
 
-.section h2 {
+section header h2 {
   border-bottom: 1px solid grey;
 }
 
-.section p {
+section > :not(header) {
   padding: 0 15px;
 }
 
-a {
+section a {
   color: #0D79FF; /* light blue */
   text-decoration: none;
+}
+
+section ul {
+  list-style: none;
+}
+
+section li:not(:last-child) {
+  margin-bottom: 16px; /* copying <p> margin */
 }
