@@ -22,10 +22,22 @@ section a {
   text-decoration: none;
 }
 
-section ul {
+#profiles ul {
+  list-style-type: none;
+}
+
+#profiles li {
+  display: inline;
+}
+
+#profiles li:not(:last-child):after {
+  content: ", ";
+}
+
+#projects ul {
   list-style: none;
 }
 
-section li:not(:last-child) {
+#projects li:not(:last-child) {
   margin-bottom: 16px; /* copying <p> margin */
 }
