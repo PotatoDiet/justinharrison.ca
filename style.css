@@ -42,10 +42,12 @@ section a {
   content: ", ";
 }
 
-#projects ul {
+#projects > ul,
+#work-experience > ul {
   list-style: none;
 }
 
-#projects li:not(:last-child) {
+#projects li:not(:last-child),
+#work-experience li:not(:last-child) {
   margin-bottom: 16px; /* copying <p> margin */
 }
