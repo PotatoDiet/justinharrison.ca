@@ -11,20 +11,20 @@ Ones view of this book is a litmus test for the ability to behave non-biased
 at the most base level. There is absolutely nothing even coming close to
 controversial within this book, unlike what many within the corporate media
 spoke of. While yes, it is true that there's little profound advice, I find
-this critisism unfounded as that seems emblematic of the self-help genre as
+this criticism unfounded as that seems emblematic of the self-help genre as
 a whole.
 
 As for the purpose of the book, none of the 12 rules resulted in any actionable
 change for myself. However, I still would recommend this book to those in dark
-places looking to crawl out. Overall, I found Peterson's writing style plesant
+places looking to crawl out. Overall, I found Peterson's writing style pleasant
 and don't regret my time spent reading this very normal book.
 
 ## Permanent Record
 > by Edward Snowden
 
-I'm a huge Snowden fan, and reading this book was an absolute joyful
+I'm a huge Snowden fan, and reading this book was an absolutely joyful
 experience. If my memory is correct, the first half of the book focused on his
-personal life with the later half being more about the leaks themselves.
+personal life with the latter half being more about the leaks themselves.
 
 I really connected with Snowden's personal life story. It was exciting to read
 about someone I felt somewhat connected with as we both dropped out of high
@@ -48,7 +48,7 @@ nights away in dance halls. Later on, during his infamous experience in the
 Philippines, reading about his small squad slowly dying off or "abandoning"
 to the post-war Filipinos was very interesting. The point where his brother
 came to the island, with many others, to persuade him to surrender with no
-success was sad and confusing. Him receiving a post card from his wife and
+success was sad and confusing. His receiving a postcard from his wife and
 children and yet believing the postcard was propaganda due to their house
 in the background being different, not aware of Japan being completely
-destroyed in the firebombing raids, was sombering.
+destroyed in the firebombing raids, was sobering.
