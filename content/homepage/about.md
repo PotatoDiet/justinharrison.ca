@@ -11,6 +11,9 @@ social:
   - icon: github
     iconPack: fab
     url: https://github.com/potato-diet
+  - icon: linkedin-in
+    iconPack: fab
+    url: https://www.linkedin.com/in/justin-h-9549a71b8/
   - icon: envelope
     iconPack: fas
     url: mailto:me@justinharrison.ca
