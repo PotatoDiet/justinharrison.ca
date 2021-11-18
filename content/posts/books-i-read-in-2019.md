@@ -2,6 +2,8 @@
 title: "Books I Read in 2019"
 date: 2021-11-15
 featuredImage: /hiroo-onoda.jpeg
+categories:
+  - Reading
 draft: false
 ---
 
