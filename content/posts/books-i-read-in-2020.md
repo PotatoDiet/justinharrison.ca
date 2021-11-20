@@ -4,6 +4,7 @@ date: 2021-11-17
 featuredImage: /2020-books.webp
 categories:
   - Reading
+description: An overview of the 3 books I read in 2020.
 draft: false
 ---
 

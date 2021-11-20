@@ -4,6 +4,7 @@ date: 2021-11-15
 featuredImage: /hiroo-onoda.jpeg
 categories:
   - Reading
+description: An overview of the 3 books I read in 2019.
 draft: false
 ---
 
