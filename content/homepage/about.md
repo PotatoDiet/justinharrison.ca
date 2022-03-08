@@ -3,7 +3,7 @@ title: About
 draft: false
 role: Student
 avatar: avatar.png
-bio: Full-stack web developer with experience in Go, Ruby, C#, React, and Angular. More of a generalist than a specialist.
+bio: Full-stack web developer with experience in Go, Ruby, C#, Python, and JavaScript / TypeScript. More of a generalist than a specialist.
 organization:
   name: University of Toronto
   url: https://www.utoronto.ca/
